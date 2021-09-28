@@ -1,7 +1,3 @@
-como rodar: 
+site que usei para instalar o server: 
 
-Dentro da pasta /server - 
-rode o comando  nodemon
-
-
-É necessário instalar o node.js e pacote npm:
+https://www.devmedia.com.br/construindo-um-servidor-web-com-node-js/32023
