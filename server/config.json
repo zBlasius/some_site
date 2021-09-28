@@ -1,4 +1,5 @@
 {
+    "npm start" : "run nodemon",
     "rootFolder": "./static",
     "defaultIndex": "/index.html",
     "types" : {
