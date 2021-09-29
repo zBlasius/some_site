@@ -1,4 +1,4 @@
-import {Home} from './components/Header/Header'
+import {Home} from './components/Header/Home'
 
 function App() {
   return (
